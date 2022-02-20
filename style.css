@@ -1,0 +1,43 @@
+.titulo {
+  padding: 20px;
+  width: 100vw;
+  margin: auto;
+  color: rgb(49, 12, 211);
+  font-style: italic;
+  font-size: 50px;
+}
+
+.btn {
+  border: 2px solid rgb(48, 143, 68);
+  color: rgb(2, 2, 51);
+  font-weight: bold;
+  background-color: rgb(202, 202, 218);
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-radius: 0.8em;
+}
+
+.text-input {
+  border-radius: 0.8em;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  display: block;
+  padding: 0.5em;
+  width: 30%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgba(2, 5, 17, 0.822);
+  font-weight: bold;
+  background-color: rgb(83, 170, 80);
+}
+
+.footer {
+  position: relative;
+  bottom: 50px;
+  left: 0px;
+  text-align: center;
+  width: 100%;
+  color: rgb(12, 8, 224);
+  background-color: rgb(182, 131, 131);
+}
